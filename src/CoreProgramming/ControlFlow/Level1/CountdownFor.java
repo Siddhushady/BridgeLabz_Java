@@ -1,0 +1,15 @@
+package Core_Programming.Control_Flow.Level1;
+
+import java.util.Scanner;
+
+public class CountdownFor {
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+
+        int counter = input.nextInt();
+
+        for (int i = counter; i >= 1; i--) {
+            System.out.println(i);
+        }
+    }
+}
