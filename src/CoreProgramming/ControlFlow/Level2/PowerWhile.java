@@ -2,20 +2,35 @@ package Core_Programming.Control_Flow.Level2;
 
 import java.util.Scanner;
 
+/**
+ * PowerWhile class calculates the power of a number using a while loop.
+ * The program reads a base number and an exponent, then calculates the result
+ * by multiplying the base by itself for the number of times specified by the exponent.
+ * For example, 2^3 = 2 * 2 * 2 = 8.
+ */
 public class PowerWhile {
     public static void main(String[] args) {
+        // Creating Scanner object to read input from the user
         Scanner input = new Scanner(System.in);
+        // Reading the base number
         int number = input.nextInt();
+        // Reading the exponent (power)
         int power = input.nextInt();
 
+        // Initializing result to 1 (identity element for multiplication)
         int result = 1;
+        // Initializing counter to track number of multiplications
         int counter = 0;
 
+        // While loop to multiply base by itself 'power' number of times
         while (counter < power) {
+            // Multiplying result by base number
             result *= number;
+            // Incrementing counter for next iteration
             counter++;
         }
 
+        // Displaying the calculated power result
         System.out.println("Result is " + result);
     }
 }
