@@ -96,5 +96,9 @@
 
 
 
+• 17-Jan-2026 (Saturday): Completed Constructors, Instance vs Class Variables, Access Modifiers, this, static, final key words and instanceof operator Problems
 
+
+
+• 18-Jan-2026 (Sunday): Completed Object modelling, Class Diagram, and Inheritance problems
 
