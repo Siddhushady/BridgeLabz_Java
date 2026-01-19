@@ -102,3 +102,7 @@
 
 • 18-Jan-2026 (Sunday): Completed Object modelling, Class Diagram, and Inheritance problems
 
+
+
+• 19-Jan-2026 (Monday): Completed encapsulation problems
+
