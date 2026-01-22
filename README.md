@@ -114,3 +114,7 @@
 
 • 21-Jan-2026 (Wednesday): Completed Linked list problems
 
+
+
+• 22-Jan-2026 (Thursday): Completed Stack, Queue, Hash map and Hashing functions problems
+
