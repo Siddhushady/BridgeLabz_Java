@@ -106,3 +106,11 @@
 
 • 19-Jan-2026 (Monday): Completed encapsulation problems
 
+
+
+• 20-Jan-2026 (Tuesday): Studied Data Structure theory concepts
+
+
+
+• 21-Jan-2026 (Wednesday): Completed Linked list problems
+
