@@ -118,3 +118,15 @@
 
 • 22-Jan-2026 (Thursday): Completed Stack, Queue, Hash map and Hashing functions problems
 
+
+
+• 23-Jan-2026 (Friday): Completed sorting algorithm problems
+
+
+
+• 24-Jan-2026 (Saturday): Completed search algorithm problems
+
+
+
+
+
