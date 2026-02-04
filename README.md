@@ -132,10 +132,6 @@
 
 
 
-• 26-Jan-2026 (Monday): Holiday
-
-
-
 • 27-Jan-2026 (Tuesday): Absent
 
 
@@ -144,7 +140,21 @@
 
 
 
-• 29-Jan-2026 (Thursday): Completed Collections and Streams Programs
+• 29-Jan-2026 (Thursday): Completed generics Programs
 
 
+
+• 30-Jan-2026 (Friday): Completed collections Programs
+
+
+
+• 31-Jan-2026 (Saturday): Completed OOPS Banner App
+
+
+
+• 02-Feb-2026 (Monday): Completed Factory Robot Hazard Analyzer app
+
+
+
+• 03-Feb-2026 (Tuesday): Completed Ocean Fleet app
 
