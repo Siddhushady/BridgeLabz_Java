@@ -20,8 +20,6 @@ public class PipedStreamsDemo {
                     for (String msg : messages) {
                         pw.println(msg);
                     }
-                } catch (IOException e) {
-                    System.err.println("Writer error: " + e.getMessage());
                 }
             });
 

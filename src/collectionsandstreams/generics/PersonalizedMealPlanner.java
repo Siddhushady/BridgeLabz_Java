@@ -1,4 +1,4 @@
-package generics;
+package collectionsandstreams.generics;
 
 /*
  * Interface representing a generic meal plan.
