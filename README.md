@@ -152,9 +152,17 @@
 
 
 
-• 02-Feb-2026 (Monday): Completed Factory Robot Hazard Analyzer app
+• 02-Feb-2026 (Monday): Completed Factory Robot Hazard Analyzer app, IOStream problems
 
 
 
-• 03-Feb-2026 (Tuesday): Completed Ocean Fleet app
+• 03-Feb-2026 (Tuesday): Completed Ocean Fleet app, exception problems
+
+
+
+• 04-Feb-2026 (Wednesday): Completed Regex and JUnit problems
+
+
+
+• 05-Feb-2026 (Thursday): Completed Java 8 feature problems
 
