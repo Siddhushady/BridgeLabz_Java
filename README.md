@@ -166,3 +166,11 @@
 
 • 05-Feb-2026 (Thursday): Completed Regex and Junit problems
 
+
+
+• 06-Feb-2026 (Friday): Completed Java 8 feature problems
+
+
+
+• 07-Feb-2026 (Saturday): Absent
+
